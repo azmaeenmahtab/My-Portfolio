@@ -10,7 +10,6 @@ import {
   TailwindCSS,
   TypescriptIcon,
 } from '../utils/icons'
-
 // Project Data
 export const projects = [
   {
@@ -126,12 +125,8 @@ export const skillList = [
     icon: ExpressjsIcon,
   },
   {
-    name: 'Nest.js',
-    icon: NestjsIcon,
-  },
-  {
-    name: 'Socket.io',
-    icon: SocketIcon,
+    name: 'Postman',
+    icon: '/postman.png',
   },
 ]
 
