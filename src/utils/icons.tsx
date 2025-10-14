@@ -9,7 +9,6 @@ import NextjsIcon from '../assets/icons/nextjs.svg'
 import NodejsIcon from '../assets/icons/nodejs.svg'
 import ReactIcon from '../assets/icons/react.svg'
 import SocketIcon from '../assets/icons/socket.svg'
-// import PostmanIcon from './'
 import Star from '../assets/icons/star.svg'
 import TailwindCSS from '../assets/icons/tailwind-css.svg'
 import Timer from '../assets/icons/timer.svg'
@@ -336,6 +335,5 @@ export {
   TailwindCSS,
   Timer,
   TypescriptIcon,
-  X,
-  PostmanIcon
-}
+  X
+};
