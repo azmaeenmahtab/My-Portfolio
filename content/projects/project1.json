@@ -1,7 +1,7 @@
 {
   "priority": 1,
   "title": "Mess Expert",
-  "shortDescription": "Mess Expert is a full-stack web application designed to simplify the management of mess groups (shared living/eating arrangements).",
+  "shortDescription": "Techstack: React, Redux, TailwindCSS, Javascript, Nodejs, Express.js, JWT for authentication, Refresh token for session based management, Supabase for Database. It is a complete mess management system where you can manage your mess members, their payments, daily meal, monthly bill and many more.",
   "cover": "/mess-expert.png",
   "livePreview": "https://messexpert.netlify.app/",
   "type": "Team Project",

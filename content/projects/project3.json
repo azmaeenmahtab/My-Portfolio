@@ -1,9 +1,9 @@
 {
   "priority": 3,
   "title": "Coaching Management System",
-  "shortDescription": "A comprehensive Coaching Management System built with React.js, Node.js, and Supabase to streamline the operations of coaching centers, including student management, course scheduling, and fee tracking.",
+  "shortDescription": "It was an Interview Task to do a CCM basic frontend and CRUD api implementation with JWT Token to use in for authentication(Login/Logout). I used React for frontend and Nodejs with Express for backend. and Supabase for database.",
   "cover": "/ccm.png",
-  "type": "Free 🔥",
+  "type": "Personal Project",
   "livePreview": "https://ccm-roan-one.vercel.app/",
   "siteAge": "6 months old",
   "githubLink": "https://github.com/azmaeenmahtab/Interview-Task-Backend",
