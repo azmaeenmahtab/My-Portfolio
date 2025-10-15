@@ -2,7 +2,7 @@
   "priority": 3,
   "title": "Coaching Management System",
   "shortDescription": "A comprehensive Coaching Management System built with React.js, Node.js, and Supabase to streamline the operations of coaching centers, including student management, course scheduling, and fee tracking.",
-  "cover": "https://res.cloudinary.com/dyvkdwzcj/image/upload/v1656971294/waitlist-template_qr4l9k.png",
+  "cover": "/ccm.png",
   "type": "Free 🔥",
   "livePreview": "https://ccm-roan-one.vercel.app/",
   "siteAge": "6 months old",

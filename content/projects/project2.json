@@ -2,7 +2,7 @@
   "priority": 2,
   "title": "Prestige Frontend",
   "shortDescription": "A fully responsive landing page for a fictional SaaS product called Prestige, built with React and Tailwind CSS.",
-  "cover": "https://res.cloudinary.com/dyvkdwzcj/image/upload/v1656970810/Codevertiser_xlxdje.png",
+  "cover": "/prestige.png",
   "livePreview": "https://cheery-chebakia-d70b4e.netlify.app/",
   "type": "Personal Project",
   "siteAge": "2-3 month old",

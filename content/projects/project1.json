@@ -2,7 +2,7 @@
   "priority": 1,
   "title": "Mess Expert",
   "shortDescription": "Mess Expert is a full-stack web application designed to simplify the management of mess groups (shared living/eating arrangements).",
-  "cover": "https://res.cloudinary.com/dyvkdwzcj/image/upload/v1645090814/color-contrast_n598kw.png",
+  "cover": "/mess-expert.png",
   "livePreview": "https://messexpert.netlify.app/",
   "type": "Team Project",
   "siteAge": "4-5 month old",
