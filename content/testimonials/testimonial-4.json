@@ -1,8 +1,8 @@
 {
-  "name": "John Doe",
-  "title": "CEO",
-  "feedback": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget sapien egestas fermentum eget auctor justo. Nullam sit amet nunc nec purus tincidunt aliquam. Nullam sit amet nunc nec purus tincidunt aliquam.",
-  "image": "https://i.pravatar.cc/150?img=12",
+  "name": "Jaid Ahmed",
+  "title": "Frontend Developer",
+  "feedback": "I had the pleasure of working with Mahtab on designing a landing page for my website, and I couldn’t be happier with the outcome. He understood my requirements clearly, communicated well throughout the process, and delivered exactly what I was looking for. The design was clean, modern, and user-friendly. What I appreciated most was his attention to detail and quick response to feedback. Overall, it was a smooth and professional experience, and I would definitely recommend him to anyone looking for quality frontend development work.",
+  "image": "/jaid.png",
   "stars": 5,
-  "createdAt": "2025-01-01"
+  "createdAt": "2025-02-10"
 }
