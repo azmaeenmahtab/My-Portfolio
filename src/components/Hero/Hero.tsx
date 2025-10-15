@@ -5,6 +5,7 @@ import Image from 'next/image'
 import { HeroImage } from '../../utils/images'
 import Ellipse from './Ellipse'
 
+
 const Hero = () => {
   const ellipseRef = useRotatingAnimation()
   const role = useRoleSwitcher({ roles: ['Aspiring FULLSTACK DEVELOPER', 'Frontend Developer at Upwork', 'Competitive Programmer'] })
@@ -24,7 +25,7 @@ const Hero = () => {
 
           <div className="mt-6 flex flex-wrap gap-6">
             <a
-              href="#"
+              href="https://www.upwork.com/freelancers/~018d5e084291908e02"
               aria-label="Connect with me"
               className="bg-accent min-w-32 cursor-pointer rounded-lg px-[14px] py-[10px] text-center text-sm font-medium text-[#00071E]">
               Hire Me
@@ -45,7 +46,7 @@ const Hero = () => {
               fill={true}
               priority={true}
               sizes="(min-width: 1024px) 25.75rem, (min-width: 768px) 20rem, (min-width: 640px) 15rem, 14rem"
-              alt="John Doe - Full Stack Developer"
+              alt="Azmaeen Mahtab Ezaz - Full Stack Developer"
               className="object-contain p-7"
             />
             <Ellipse
